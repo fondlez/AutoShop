@@ -1,0 +1,11 @@
+## Interface: 20400
+## Title: AutoShop
+## Author: Pyralis
+## Version: 1.0
+## Notes: Automatically buy and sell items.
+## SavedVariablesPerCharacter: AutoShopSave
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## OptionalDeps: ItemDestroyer
+
+AutoShop.lua
