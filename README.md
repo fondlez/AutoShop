@@ -1,8 +1,6 @@
 # AutoShop
 
-###### Scary warning: Most of these addons were made long ago during Feenix days, then a lot was changed/added to prepare for Corecraft. Since it died, they still haven't been extensively tested on modern servers.
-
-### [Downloads](https://github.com/Shanghi/AutoShop/releases)
+### [Download Latest](https://github.com/fondlez/AutoShop/releases/latest)
 
 ***
 
@@ -12,7 +10,10 @@
 * Can automatically repair.
 * Can protect against you accidentally selling specific items by immediately buying them back.
 
-To open the settings, use: **`/autoshop`**
+To open the settings, use: **`/autoshop`** or **`/as`**
+
+### Caution
+* Using the buyback feature while also using a different addon for selling to a merchant may result in cycles of selling and buying, since the other addon may not know about sale exceptions.
 
 ## Screenshot:
 ![!](https://i.imgur.com/85zHWXG.png)
